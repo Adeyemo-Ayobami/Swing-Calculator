@@ -1,6 +1,6 @@
 
 NAME: ADEKUNLE ABDULMUJEEB ADESHINA 
 MATRIC NO: U23CYS1074
-DEPT: CYBER SECURRITY 
+DEPT: CYBER SECURITY 
 
-NOTE: while using the calculator, if you must use a bracket, remember to close the bracket otherwise you will get an error. every other thing works just fine.
+NOTE: If you must use a bracket while using the calculator, remember to close it; otherwise, you will get an error. Everything else works just fine.
